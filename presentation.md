@@ -108,7 +108,6 @@ This is a visualization tool created by Hans Rosling and his team.
 # Multiple small panes #
 
 <img src="images/small-panes.png" width="80%" />
-<img src="images/small-panes2.png" width="80%" />
 
 ----
 
