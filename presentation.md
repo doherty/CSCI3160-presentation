@@ -7,8 +7,6 @@
  - [Mike Doherty](http://mikedoherty.ca)
  - Cong Chen
 
-<http://mikedoherty.ca/~mike/CSCI3160/presentation.html> & <https://github/doherty/CSCI3160-presentation>
-
 ## Visualizing large data sets ##
 
 Combines several areas of research:
@@ -175,10 +173,22 @@ Visualization tool for exploring dynamic social networks
 
 # References #
 
-1. Khurana, U., Nguyen, V., Cheng, H., Ahn, J., Chen, X., Shneiderman, B. (June 2011). *"Visual Analysis of Temporal Trends in Social Networks Using Edge Color Coding and Metric Timelines"*. To appear in *Proceedings IEEE Conference on Social Computing 2011* (October 2011, Boston, MA), IEEE Press, Piscataway, NJ.
-2. Gove, R., Dunne, C., Shneiderman, B., Klavans, J., Dorr, B. (January 2011). *"Evaluating Visual and Statistical Exploration of Scientific Literature Networks"*. To appear in *proceedings of 2011 IEEE Symposium on Visual Languages and Human-Centric Computing*, (VL/HCC'11).
-3. Dunne, C., Shneiderman, B., Gove, R., Klavans, J., Dorr, B. (July 2011). *"Rapid Understanding of Scientific Paper Collections: Integrating Statistics, Text Analysis, and Visualization"*.
-4. Lodha, S., Gunawardane, P., Middleton, E., Crow, B. (2009). *"Understanding Relationships Between Global Health Indicators via Visualisation and Statistical Analysis"*. Journal of International Development (21), pp. 1152-1166.
-5. Gove, R., Dunne, C., Shneiderman, B., Klavans, J., Dorr, B. (January 2011). *"Evaluating Visual and Statistical Exploration of Scientific Literature Networks"*. To appear in proceedings of 2011 IEEE Symposium on Visual Languages and Human-Centric Computing, (VL/HCC'11).
-6. Robertson, G., Fernandez, R., Fisher, D., Lee, B., John S. (Nov/Dec 2008). *"Effectiveness of Animation in Trend Visualization"*. IEEE Transactions on Visualization and Computer Graphics, pp. 1325-1332.
+1.  [Khurana](papers/Khurana, 2011.pdf), U., Nguyen, V., Cheng, H., Ahn, J., Chen, X., Shneiderman, B. (June 2011).
+    *"Visual Analysis of Temporal Trends in Social Networks Using Edge Color Coding and Metric Timelines"*.
+    To appear in Proceedings IEEE Conference on Social Computing 2011 (October 2011, Boston, MA), IEEE Press, Piscataway, NJ.
+2.  [Gove](papers/Gove, 2011.pdf), R., Dunne, C., Shneiderman, B., Klavans, J., Dorr, B. (January 2011).
+    *"Evaluating Visual and Statistical Exploration of Scientific Literature Networks"*.
+    To appear in proceedings of 2011 IEEE Symposium on Visual Languages and Human-Centric Computing, (VL/HCC'11).
+3.  [Dunne](papers/Dunne, 2011.pdf), C., Shneiderman, B., Gove, R., Klavans, J., Dorr, B. (July 2011).
+    *"Rapid Understanding of Scientific Paper Collections: Integrating Statistics, Text Analysis, and Visualization"*.
+4.  [Lodha](papers/Lodha, 2009.pdf), S., Gunawardane, P., Middleton, E., Crow, B. (2009).
+    *"Understanding Relationships Between Global Health Indicators via Visualisation and Statistical Analysis"*.
+    Journal of International Development (21), pp. 1152-1166.
+5.  [Robertson](papers/Robertson, 2008.pdf), G., Fernandez, R., Fisher, D., Lee, B., John S. (Nov/Dec 2008).
+    *"Effectiveness of Animation in Trend Visualization"*.
+    IEEE Transactions on Visualization and Computer Graphics, pp. 1325-1332.
+
+----
+
+# Thanks for listening #
 
